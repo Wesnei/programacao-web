@@ -71,7 +71,7 @@ Se os dados forem válidos, o script exibirá a média de idade e a média de re
 
 ```
 Média de idade dos clientes: 31.50 anos
-Média de renda mensal dos clientes: R$ 3650.00
+Média de renda mensal dos clientes: R$ 3900.00
 ```
 
 Se não houver dados válidos ou o arquivo estiver vazio, a seguinte mensagem será exibida:
